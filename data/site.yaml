@@ -1,6 +1,6 @@
 intro:
   title: Intro
-  background: '#EB613D'
+  background: '#5D5C61'
   text: '#333333'
   # description: >
   #   Designer, developer, and entrepreneur. 
@@ -28,14 +28,14 @@ intro:
 
 about:
   title: Bio
-  background: '#A3D2DF'
+  background: '#8c8c8c'
   text: '#333333'
   description: >
     A little more about me.
   items: 
     - description: >
 
-        I've always loved spending way too much time on the computer, 
+        I've always loved spending way too much time on the computer, 1
         and spent my teens tinkering with Photoshop and building crappy websites.
         
         But after getting a computer science degree, I realized writing compilers wasn't for me
@@ -56,7 +56,7 @@ about:
 
 code:
   title: Code
-  background: '#C6F0D5'
+  background: '#7395AE'
   text: '#333333'
   description: >
     The duct tape that keeps the world together.
@@ -81,7 +81,7 @@ code:
 
 projects:
   title: Projects
-  background: '#FFEEB2'
+  background: '#557A95'
   text: '#333333'
   # description: >
   #   Get a cool idea; spend way too much time on it; launch; rinse; repeat.
@@ -111,7 +111,7 @@ projects:
 
 writing:
   title: Writing
-  background: '#E8C8ED'
+  background: '#B1A296'
   text: '#333333'
   cta:
     text: More On Medium
