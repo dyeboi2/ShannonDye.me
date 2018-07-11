@@ -206,39 +206,3 @@ podcasts:
       url: http://theindustry.cc/2012/05/22/10-facebook-ipod-the-toolbox-launches-parse-for-ios-and-android-and-say-hello-to-octicons/
       date: 05/22/2012
 
-graveyard:
-  title: Graveyard
-  background: '#404448'
-  text: '#eeeeee'
-  description: >
-    You gotta learn to let them go.
-  items: 
-    - title: Screenings
-      description: An attempt at building a directory of design talks. On life support due to a lack of updates. 
-      url: https://screenings.io
-      date: 07/01/2015
-    - title: BJJBot
-      description: A directory of Brazilian Jiu-Jitsu videos that never quite took off. 
-      url: http://bjjbot.com
-      date: 07/01/2015
-    - title: The Toolbox
-      description: A directory of design resources. The domain expired, and then got a second life thanks to a new owner.
-      url: http://thetoolbox.cc
-      date: 05/05/2012
-    # - title: Kandan
-    #   description: I designed the UI for an open-source chat app. Besides being a fun project, it was also the inspiration for my [UI design](http://sachagreif.com/ebook) ebook.
-    #   url: http://getkandan.com/
-    #   date: 04/04/2012
-    - title: SachaGreif.com
-      description: The previous version of this site, a now-abandoned WordPress blog.
-      url: http://v3.sachagreif.com
-      date: 01/01/2012
-    - title: Folyo
-      description: My first “startup”. After many years trying (and failing) to make it work, sold the site to the talented [Workshop](http://letsworkshop.com/) crew.
-      url: http://folyo.me
-      date: 01/01/2011
-    - title: Patternify
-      description: >
-        A simple pattern generation tool, and one of my first ever side projects. Still works!
-      url: http://patternify.com/
-      date: 01/01/2011
