@@ -12,7 +12,7 @@ import Logo from './logo.js'
 
 const contents = `
   
-  I'm **Sacha Greif**, a designer, developer, and entrepreneur. 
+  I'm **Shannon Dye**, a designer, developer, and entrepreneur. 
 
   I'm originally from Paris, France but these days I live in Osaka, Japan. 
 
