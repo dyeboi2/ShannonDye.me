@@ -14,17 +14,17 @@ intro:
   #   [Say hello](mailto:hello@sachagreif.com).
   social: 
     - title: Twitter
-      url: http://twitter.com/sachagreif
+      url: http://twitter.com/
     # - title: Medium
     #   url: https://medium.com/@sachagreif
     - title: GitHub
-      url: http://github.com/sachag
+      url: http://github.com/
     - title: Instagram
-      url: http://instagram.com/sachagreif
+      url: http://instagram.com/
     - title: Dribbble
-      url: https://dribbble.com/sacha
+      url: https://dribbble.com/
     - title: SoundCloud
-      url: https://soundcloud.com/sacha-greif
+      url: https://soundcloud.com/
 
 about:
   title: Bio

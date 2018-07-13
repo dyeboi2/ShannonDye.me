@@ -12,11 +12,11 @@ import Logo from './logo.js'
 
 const contents = `
   
-  I'm **Shannon Dye**, a designer, developer, and entrepreneur. 
+  I'm **Shannon Dye**, a designer at Encompass Digital Media. 
 
-  I'm originally from Paris, France but these days I live in Osaka, Japan. 
+  I'm from Elberton, Georgia but these days I live in Kennesaw, Georgia. 
 
-  [Say hello](mailto:hello@sachagreif.com), or keep scrolling.
+  [Say hello](mailto:sdye1029@gmail.com), or keep scrolling.
 `
 const SectionIntro = ({name, title, description, social, index, background}) => 
 
